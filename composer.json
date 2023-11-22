@@ -1,0 +1,17 @@
+{
+    "name": "vai-cm06-sg10-admin/oop_mvc_php-07_models_refactor",
+    "autoload": {
+        "psr-4": {
+            "App\\": "./class/App"
+        }
+    },
+    "authors": [
+        {
+            "name": "Omar C",
+            "email": "o.chaabouni@gmail.com"
+        }
+    ],
+    "require": {
+        "joshtronic/php-loremipsum": "^2.1"
+    }
+}
